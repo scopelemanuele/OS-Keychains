@@ -1,4 +1,4 @@
-##OS Keychains collection
+# OS Keychains collection
 
 This is a repository containing some 3D printable logos of different operating systems as seen at [ThingiVerse] (http://www.thingiverse.com/thing:1954171)
 
@@ -9,6 +9,12 @@ This is a repository containing some 3D printable logos of different operating s
 - Arch Linux
 - Fedora (thx to [vincent](https://github.com/vincent))
 
+# Contributing
+
+Contributors please provide a printable .stl file and screenshots from within FreeCAD for the Thingiverse repo.
+
 More are to be added.
+
+
 
 ![alt tag] (https://github.com/techMod/OS-Keychains/blob/master/images/OSPIC.png)
