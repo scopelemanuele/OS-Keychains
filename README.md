@@ -7,7 +7,7 @@ This is a repository containing some 3D printable logos of different operating s
 - Windows 10
 - Debian
 - Arch Linux
-- Fedora (thx to [vincent](https://github.com/vincent)
+- Fedora (thx to [vincent](https://github.com/vincent))
 
 More are to be added.
 
