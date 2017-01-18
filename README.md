@@ -8,6 +8,8 @@ This is a repository containing some 3D printable logos of different operating s
 - Debian
 - Arch Linux
 - Fedora
+- FreeBSD
+- Gentoo
 
 More are to be added.
 
@@ -15,5 +17,6 @@ More are to be added.
 
 ##Contributing:
 
-Please provide a .stl file of your object along with some screenshots from inside freecad.
+Please provide a .stl file of your object along with some screenshots from inside your CAD-program.
 Try to make the object about 40x40mm.
+You are not limited to the programs I use. As long as the .STL is properly provided.
